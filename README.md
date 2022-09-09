@@ -55,7 +55,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 - 💬 Ask me about anything [here](https://github.com/Mosespt/Mosespt/issues)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tolulope-moses-odeyemi/)
-- Feel free to also check out [my portfolio](https://tolulopemoses.site).
+- 💼 Feel free to also check out [my portfolio](https://tolulopemoses.site).
 
 ---
 
