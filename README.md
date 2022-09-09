@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="400"/>
 </div>
 
 ### :man_technologist: About Me :
