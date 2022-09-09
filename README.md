@@ -27,7 +27,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://tolulopemoses.sit">
-      <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
     
   </div>
@@ -63,7 +63,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/zero-to-mastery/Animation-Nation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zero-to-mastery&repo=Animation-Nation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="animation-nation"></a>
+  <a href="https://github.com/zero-to-mastery/Animation-Nation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zero-to-mastery&repo=Animation-Nation&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="animation-nation"></a>
 
 </p>
 
@@ -116,7 +116,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosespt&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosespt&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
@@ -126,7 +126,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 
 <div align="center">
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mosespt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Moses' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Mosespt&theme=neon-palenight&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mosespt&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Moses' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Mosespt&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div>
