@@ -105,26 +105,25 @@ Feel free to also check out [my portfolio](https://tolulopemoses.site).
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://instagram.com/_moses.dev">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-instagram.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://tolulopemoses.site">
+  <img align="right" alt="Tolulope Moses | Portfolio" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-web-60.png" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://codepen.io/98Moses/">
+  <img align="right" alt="Tolulope Moses | Codepen.io" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-codepen.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/_98moses">
+  <img align="right" alt="_98Moses | Twitter" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-twitter.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://dev.to/98moses">
+  <img align="right" alt="98moses | dev.to" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-dev.svg" />
 </a>
 
 [Codepen](https://codepen.io/98Moses/)  •  [Github](https://github.com/Mosespt/)  •  [Twitter](https://twitter.com/_98moses)  •  [Portfolio](https://tolulopemoses.site)
