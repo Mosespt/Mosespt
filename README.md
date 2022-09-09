@@ -109,9 +109,11 @@ Feel free to also check out [my portfolio](https://tolulopemoses.site).
 
 ---
 
-
+<a href="https://www.linkedin.com/in/tolulope-moses-odeyemi/">
+  <img align="right" alt="Tolulope Moses | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-linkedin.svg" />
+</a>
 <a href="https://instagram.com/_moses.dev">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-instagram.svg" />
+  <img align="right" alt="Tolulope Moses | Instagram" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-instagram.svg" />
 </a>
 <a href="https://tolulopemoses.site">
   <img align="right" alt="Tolulope Moses | Portfolio" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-web-60.png" />
@@ -125,5 +127,10 @@ Feel free to also check out [my portfolio](https://tolulopemoses.site).
 <a href="https://dev.to/98moses">
   <img align="right" alt="98moses | dev.to" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-dev.svg" />
 </a>
+<a href="https://github.com/Mosespt/">
+  <img align="right" alt="Tolulope Moses | Github" width="21px" src="https://raw.githubusercontent.com/Mosespt/Mosespt/main/assets/icons8-github.svg" />
+</a>
 
+<!--
 [Codepen](https://codepen.io/98Moses/)  •  [Github](https://github.com/Mosespt/)  •  [Twitter](https://twitter.com/_98moses)  •  [Portfolio](https://tolulopemoses.site)
+-->
