@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="250"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/tolulope-moses-odeyemi/">
@@ -26,6 +26,10 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/_98moses">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://tolulopemoses.sit">
+      <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    
   </div>
   <img src="https://komarev.com/ghpvc/?username=Mosespt&style=flat-square&color=blue" alt=""/>
  
@@ -40,14 +44,17 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria, residing in Italy.
+I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria, residing in Italy.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tolulope-moses-odeyemi/)
+- 💬 Ask me about anything [here](https://github.com/Mosespt/Mosespt/issues)
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tolulope-moses-odeyemi/)
 
 
 Feel free to also check out [my portfolio](https://tolulopemoses.site).
@@ -71,24 +78,52 @@ Feel free to also check out [my portfolio](https://tolulopemoses.site).
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosespt&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mosespt&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosespt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mosespt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Moses' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Mosespt&theme=neon-palenight&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+</div>
 
 ---
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## Social Links
-[Codepen](https://codepen.io/98Moses/)  •  [Github](https://github.com/Mosespt/)  •  [Twitter](https://twitter.com/_98moses)  •  [my portfolio](https://tolulopemoses.site)
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+[Codepen](https://codepen.io/98Moses/)  •  [Github](https://github.com/Mosespt/)  •  [Twitter](https://twitter.com/_98moses)  •  [Portfolio](https://tolulopemoses.site)
