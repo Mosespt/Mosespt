@@ -63,9 +63,10 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/zero-to-mastery/Animation-Nation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mosespt&repo=animation-nation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="animation-nation"></a>
+  <a href="https://github.com/zero-to-mastery/Animation-Nation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zero-to-mastery&repo=Animation-Nation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="animation-nation"></a>
+
 </p>
-  
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
