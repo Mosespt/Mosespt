@@ -136,6 +136,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Are you a newbie? Here are 5 ways you can practise coding and level up in no time.](https://dev.to/98moses/are-you-a-newbie-here-are-5-ways-you-can-practise-coding-and-level-up-in-no-time-1lkf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
