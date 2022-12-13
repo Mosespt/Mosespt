@@ -146,6 +146,9 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
 <!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 
