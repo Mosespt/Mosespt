@@ -147,17 +147,17 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
-2. 🚀 Pushed 1 commit(s) to [Mosespt/Product-Landing-Page](https://github.com/Mosespt/Product-Landing-Page)
-3. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
-4. ❗️ Opened issue [#2](https://github.com/Mosespt/Mosespt/issues/2) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+1. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
+2. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
+3. 📔 Created new repository [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
+4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 5. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
 6. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
-7. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+7. 🚀 Pushed 1 commit(s) to [Mosespt/Product-Landing-Page](https://github.com/Mosespt/Product-Landing-Page)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 13th, 2022, 5:24:20 PM
+Last Updated: Tuesday, December 13th, 2022, 5:54:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
