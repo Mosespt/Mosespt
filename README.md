@@ -144,14 +144,10 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+<!--1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
-2. ⬆️ Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
-3. ⬆️ Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
-4. ⬆️ Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
-5. ⬆️ Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
