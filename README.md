@@ -147,20 +147,17 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ❌ Closed PR [#230](https://github.com/Readme-Workflows/recent-activity/pull/230) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. 💪 Opened PR [#235](https://github.com/Readme-Workflows/recent-activity/pull/235) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+2. 🚀 Pushed 1 commit(s) to [Mosespt/Product-Landing-Page](https://github.com/Mosespt/Product-Landing-Page)
+3. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+4. ❗️ Opened issue [#2](https://github.com/Mosespt/Mosespt/issues/2) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+5. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+6. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+7. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 13th, 2022, 4:10:52 PM
+Last Updated: Tuesday, December 13th, 2022, 5:24:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
