@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/_98moses">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://tolulopemoses.sit">
+    <a href="https://tolulopemoses.site">
       <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
     
