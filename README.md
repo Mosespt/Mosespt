@@ -147,17 +147,17 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
-2. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
-3. 📔 Created new repository [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
-4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
-6. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
-7. 🚀 Pushed 1 commit(s) to [Mosespt/Product-Landing-Page](https://github.com/Mosespt/Product-Landing-Page)
+1. 🚀 Pushed 1 commit(s) to [Mosespt/C-Programming](https://github.com/Mosespt/C-Programming)
+2. 📔 Created new repository [Mosespt/C-Programming](https://github.com/Mosespt/C-Programming)
+3. 🚀 Pushed 1 commit(s) to [Mosespt/Algo-Data-Struct-C](https://github.com/Mosespt/Algo-Data-Struct-C)
+4. 📔 Created new repository [Mosespt/Algo-Data-Struct-C](https://github.com/Mosespt/Algo-Data-Struct-C)
+5. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
+6. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
+7. 📔 Created new repository [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 13th, 2022, 5:54:59 PM
+Last Updated: Wednesday, December 14th, 2022, 3:20:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
