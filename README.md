@@ -147,17 +147,17 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 1 commit(s) to [Mosespt/C-Programming](https://github.com/Mosespt/C-Programming)
-2. 📔 Created new repository [Mosespt/C-Programming](https://github.com/Mosespt/C-Programming)
-3. 🚀 Pushed 1 commit(s) to [Mosespt/Algo-Data-Struct-C](https://github.com/Mosespt/Algo-Data-Struct-C)
-4. 📔 Created new repository [Mosespt/Algo-Data-Struct-C](https://github.com/Mosespt/Algo-Data-Struct-C)
-5. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
+1. ⭐ Starred [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
+2. 🚀 Pushed 1 commit(s) to [Mosespt/C-Programming](https://github.com/Mosespt/C-Programming)
+3. 📔 Created new repository [Mosespt/C-Programming](https://github.com/Mosespt/C-Programming)
+4. 🚀 Pushed 1 commit(s) to [Mosespt/Algo-Data-Struct-C](https://github.com/Mosespt/Algo-Data-Struct-C)
+5. 📔 Created new repository [Mosespt/Algo-Data-Struct-C](https://github.com/Mosespt/Algo-Data-Struct-C)
 6. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
-7. 📔 Created new repository [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
+7. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 15th, 2022, 3:19:40 AM
+Last Updated: Friday, December 16th, 2022, 3:05:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
