@@ -157,7 +157,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 19th, 2023, 3:20:00 AM
+Last Updated: Monday, February 20th, 2023, 3:21:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
