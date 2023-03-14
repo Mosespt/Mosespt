@@ -149,15 +149,10 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 2. ⭐ Starred [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
-3. 🚀 Pushed 1 commit(s) to [Mosespt/C-Programming](https://github.com/Mosespt/C-Programming)
-4. 📔 Created new repository [Mosespt/C-Programming](https://github.com/Mosespt/C-Programming)
-5. 🚀 Pushed 1 commit(s) to [Mosespt/Algo-Data-Struct-C](https://github.com/Mosespt/Algo-Data-Struct-C)
-6. 📔 Created new repository [Mosespt/Algo-Data-Struct-C](https://github.com/Mosespt/Algo-Data-Struct-C)
-7. 🚀 Pushed 1 commit(s) to [Mosespt/Object-Oriented-Programming---JAVA](https://github.com/Mosespt/Object-Oriented-Programming---JAVA)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 13th, 2023, 3:10:30 AM
+Last Updated: Tuesday, March 14th, 2023, 2:59:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
