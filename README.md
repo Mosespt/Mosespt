@@ -148,11 +148,10 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-2. ⭐ Starred [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 15th, 2023, 3:09:30 AM
+Last Updated: Thursday, March 16th, 2023, 3:10:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
