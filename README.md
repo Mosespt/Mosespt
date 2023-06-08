@@ -147,11 +147,10 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 7th, 2023, 3:23:57 AM
+Last Updated: Thursday, June 8th, 2023, 3:23:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
