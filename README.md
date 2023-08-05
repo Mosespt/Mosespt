@@ -111,12 +111,12 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 
 </div>
+
+<br />
+<br />
 -->
 
-<br />
-<br />
-
-<div align="center">
+<div align="left">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosespt&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
