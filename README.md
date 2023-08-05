@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/98moses)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="250"/>
 
@@ -34,7 +32,15 @@ Here are some ideas to get you started:
     
   </div>
   <img src="https://komarev.com/ghpvc/?username=Mosespt&style=flat-square&color=blue" alt=""/>
- 
+
+  <a href="https://github.com/Mosespt">
+    <img src="https://img.shields.io/github/followers/Mosespt?label=follow&style=social" alt=""/>
+  </a>
+
+  <br />
+  <a href="https://www.buymeacoffee.com/98moses">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt=""/>
+  </a>
  </div>
 
 ### Hi there 👋
@@ -49,6 +55,8 @@ Here are some ideas to get you started:
 I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria, residing in Italy.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- 👯 Comfortable with Git
 
 - :seedling: Exploring Technical Content Writing.
 
