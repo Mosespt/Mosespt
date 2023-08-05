@@ -70,6 +70,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<!--
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -110,6 +111,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 
 </div>
+-->
 
 <br />
 <br />
