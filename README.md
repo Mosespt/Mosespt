@@ -159,7 +159,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Responsive_Web_Design](https://github.com/Mosespt/freeCodeCamp_Responsive_Web_Design)
+1. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
 2. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Responsive_Web_Design](https://github.com/Mosespt/freeCodeCamp_Responsive_Web_Design)
 3. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Responsive_Web_Design](https://github.com/Mosespt/freeCodeCamp_Responsive_Web_Design)
 4. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Responsive_Web_Design](https://github.com/Mosespt/freeCodeCamp_Responsive_Web_Design)
@@ -169,7 +169,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 5th, 2023, 2:54:55 AM
+Last Updated: Sunday, August 6th, 2023, 2:49:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
