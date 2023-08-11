@@ -160,7 +160,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
-2. 🚀 Pushed 1 commit(s) to [Mosespt/World_Cup_Database](https://github.com/Mosespt/World_Cup_Database)
+2. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
 3. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
 4. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
 5. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
@@ -169,7 +169,7 @@ I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.c
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 10th, 2023, 3:02:32 AM
+Last Updated: Friday, August 11th, 2023, 2:39:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
