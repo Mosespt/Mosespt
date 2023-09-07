@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-I'm a self-taught passionate FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria, residing in Italy.
+I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Italy.
 
 - :telescope: I’m working as a freelance Full-Stack Developer and contributing to frontend and backend projects for building web applications.
 
