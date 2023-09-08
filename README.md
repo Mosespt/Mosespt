@@ -168,9 +168,9 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 <!--1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
-2. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
-3. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
+1. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+2. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
+3. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)
 4. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
 5. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
 6. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)
@@ -178,7 +178,7 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 7th, 2023, 2:42:17 AM
+Last Updated: Friday, September 8th, 2023, 2:42:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
