@@ -147,7 +147,7 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 
 <div align="center">
 
-| <a href="http://www.github.com/Mosespt"><img src="https://github-readme-stats.vercel.app/api?username=Mosespt&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Mosespt's GitHub stats" /></a> | <a href="http://www.github.com/Mosespt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosespt&stroke=14b8a6&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mosespt&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Moses' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Mosespt&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div>
