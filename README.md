@@ -167,6 +167,7 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 <!--START_SECTION:activity-->
 <!--1. ❗️ Opened issue [#1](https://github.com/Mosespt/Mosespt/issues/1) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)-->
 <!--END_SECTION:activity-->
+
 <!--RECENT_ACTIVITY:start-->
 1. 🚀 Pushed 1 commit(s) to [Mosespt/smart-brain-api](https://github.com/Mosespt/smart-brain-api)
 2. 🚀 Pushed 1 commit(s) to [Mosespt/smart-brain-api](https://github.com/Mosespt/smart-brain-api)
