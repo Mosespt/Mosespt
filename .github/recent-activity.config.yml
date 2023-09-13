@@ -5,6 +5,7 @@ settings:
   readme_file: "./README.md"
   #disabled_events:
     #- "comments"
+  whitelisted_events: ["comments", "create_repo", "fork", "issues", "issues_open", "issues_close", "star", "push", "wiki", "review", "release", "member", "pr", "pr_open", "pr_merge", "pr_close"]
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+01:00"
