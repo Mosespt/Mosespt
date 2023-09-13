@@ -165,6 +165,14 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+2. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+3. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+4. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+5. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+6. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)<br>
+7. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)<br>
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
