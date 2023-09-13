@@ -166,16 +166,16 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 
 <!--RECENT_ACTIVITY:start-->
 1. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
-2. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
-3. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+2. ⭐ Starred [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)<br>
+3. ⭐ Starred [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
 4. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
 5. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
 6. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
-7. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)<br>
+7. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 9:57:18 PM
+Last Updated: Wednesday, September 13th, 2023, 10:13:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
