@@ -164,8 +164,7 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 ---
 
