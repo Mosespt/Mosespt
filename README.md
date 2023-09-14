@@ -165,17 +165,17 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
-2. ⭐ Starred [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)<br>
-3. ⭐ Starred [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
-4. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
-5. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+1. ✔️ Closed issue [#2](https://github.com/Mosespt/Mosespt/issues/2) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+2. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+3. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+4. ⭐ Starred [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)<br>
+5. ⭐ Starred [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
 6. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
 7. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 10:13:52 PM
+Last Updated: Thursday, September 14th, 2023, 2:41:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
