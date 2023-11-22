@@ -165,17 +165,17 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-2. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
-3. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)<br>
-4. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)<br>
-5. 🚀 Pushed 1 commit(s) to [Mosespt/freeCodeCamp_Relational_Database](https://github.com/Mosespt/freeCodeCamp_Relational_Database)<br>
-6. ✔️ Closed issue [#2](https://github.com/Mosespt/Mosespt/issues/2) in [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
-7. 🚀 Pushed 1 commit(s) to [Mosespt/Mosespt](https://github.com/Mosespt/Mosespt)<br>
+1. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
+2. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
+3. ⭐ Starred [Mosespt/face_recognition_webpage](https://github.com/Mosespt/face_recognition_webpage)<br>
+4. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
+5. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
+6. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
+7. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 21st, 2023, 2:56:09 AM
+Last Updated: Wednesday, November 22nd, 2023, 2:54:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
