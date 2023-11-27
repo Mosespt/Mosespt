@@ -175,7 +175,7 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 26th, 2023, 2:54:22 AM
+Last Updated: Monday, November 27th, 2023, 2:52:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
