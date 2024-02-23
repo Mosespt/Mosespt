@@ -165,17 +165,10 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
-2. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
-3. ⭐ Starred [Mosespt/face_recognition_webpage](https://github.com/Mosespt/face_recognition_webpage)<br>
-4. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
-5. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
-6. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
-7. 🚀 Pushed 1 commit(s) to [Mosespt/face_recognition_server](https://github.com/Mosespt/face_recognition_server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 22nd, 2024, 2:40:42 AM
+Last Updated: Friday, February 23rd, 2024, 2:40:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
