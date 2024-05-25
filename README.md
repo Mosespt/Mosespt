@@ -165,11 +165,10 @@ I'm a self-taught, passionate FullStack Developer from Nigeria, residing in Ital
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bcms/starters](https://github.com/bcms/starters)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 24th, 2024, 2:53:38 AM
+Last Updated: Saturday, May 25th, 2024, 2:51:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
